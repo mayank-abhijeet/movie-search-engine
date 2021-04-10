@@ -4,7 +4,7 @@ const apikey = '8c963a6'; // If using secret key, move to .evn.local
 
 export const getPosters = (query = '', isId = false, page = 1) => {
   return axios
-    .get('http://www.omdbapi.com', {
+    .get('https://www.omdbapi.com', {
       params: {
         apikey,
         page,
