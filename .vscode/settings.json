@@ -1,0 +1,18 @@
+{
+  "eslint.enable": true,
+  "breadcrumbs.enabled": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "Inconsolata, 'Source Code Pro', Menlo, Consolas, Courier, monospace",
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "none",
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.wrappingIndent": "indent",
+  "html.format.endWithNewline": true,
+  "html.format.extraLiners": "body",
+  "html.format.indentInnerHtml": true,
+  "javascript.suggest.autoImports": true,
+  "javascript.suggest.includeAutomaticOptionalChainCompletions": true
+}
